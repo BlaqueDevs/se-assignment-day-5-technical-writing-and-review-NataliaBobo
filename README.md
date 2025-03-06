@@ -2,8 +2,39 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18538583&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+ 
+  TECH EXPERTS
+  
+  They appreciate in-depth explanations and detailed specifications.
+
+  They use the technical languages and industry-related terminalogy.
+
+  They provide technical evidences concerning an issues.
+
+  They emphasize on the performance analysis of the system.
+ 
+  REGULAR FOLKS
+
+  They use plain and simpler language.
+
+  In order to explain a technical system, relatable events are used for easier understanding.
+
+  Use visual aids like charts and diagrams for easier understanding and analysis.
+
+  Focus on the main message, to avoid overwelming them with too much information.
+
 ## 2. What are some strategies to tailor your content to different audience types?
+
+Keep up with the Market trends: Through this, the audience attention is easily captured.
+
+Identify the target audience: Incase they are children, teenagers or middle-aged audience.
+
+Collaborate with content creators with a large following to help tailor your content to your audience.
+
+Partner with different brands to help the content reach different audience type.
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
